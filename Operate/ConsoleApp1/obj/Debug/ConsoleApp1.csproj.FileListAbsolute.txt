@@ -1,0 +1,6 @@
+C:\Users\Nikki\Documents\Arith\Operate\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Nikki\Documents\Arith\Operate\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Nikki\Documents\Arith\Operate\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Nikki\Documents\Arith\Operate\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Nikki\Documents\Arith\Operate\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Nikki\Documents\Arith\Operate\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
